@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "total_users": 4,
+  "users": [
+    {
+      "id": 1,
+      "name": "Mario Rossi",
+      "CreditCardType": "American Express"
+    },
+    {
+      "id": 2,
+      "name": "Luigi Bianchi",
+      "CreditCardType": "Visa"
+    }
+  ]
+}
